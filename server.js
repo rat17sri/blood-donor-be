@@ -9,7 +9,7 @@ const app = express();
 // CORS SETUP
 const allowedOrigins = [
   'http://localhost:4200',
-  'https://blood-donor-2w5b.onrender.com',
+  'https://blood-donor-fe.onrender.com',
 ];
 
 // Dynamic origin check so both localhost + Render work
